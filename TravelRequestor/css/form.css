@@ -1,0 +1,29 @@
+.customContainer{
+    background-color:#e9fce7;
+    max-width:600px;
+    margin:20px auto;
+    padding:45px;
+    border-radius:25px;
+    box-shadow:0 0 10px;
+}
+.nav {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    height: 100px; 
+
+}
+.error{
+    color: red;
+}
+a{
+   color: black; 
+   text-decoration: none;
+   margin-left: 4%
+}
+.form-group{
+    width: 100%;
+}
+label{
+    font-weight:bold
+}
